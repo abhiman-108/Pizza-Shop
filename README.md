@@ -8,10 +8,10 @@ This is a simple HTML-only website created to showcase a fictional pizza shop. N
 
 🔍 What’s Inside?
 
-🏠 Home Page – A warm welcome and introduction to the shop.
-🍕 Menu Page – A list of delicious pizzas with Names and mouth-watering descriptions.
-📞 Contact Page – Find out how to reach us or place an order.
-🕒 Store Hours: Open hours of the shop.
+🏠 Home Page 
+🍕 Menu Page
+📞 Contact Page
+🕒 Store Hours
 
 
 💡 Why This Project?
@@ -19,15 +19,22 @@ This is a simple HTML-only website created to showcase a fictional pizza shop. N
 --- This project was made for fun, practice, and learning. It’s designed to show how much you can do with just HTML. If you’re just starting out with web development, this is a great way to learn how to:
 
 1.Structure a website
+
 2.Use links and images
+
 3.Create lists and headings
+
 4.Make simple navigation between pages
 
 
 🚀 How to Use
+
 1.Download or clone this repository.
+
 2.Open the index.html file in your browser.
+
 3.Navigate between pages using the links.
+
 That's it! No setup needed. Just open and enjoy.
 
 
